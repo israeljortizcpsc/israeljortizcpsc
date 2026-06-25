@@ -13,7 +13,7 @@
 **Disclaimer: I sort my projects by account, find more @israelortizcpsc!**
 
 🔭 **Right now:** building [Gauge]([https://github.com/[you]/capbench](https://github.com/israeljortizcpsc/Gauge-CAPEX-Benchmarking-Dashboard)), a capital-project benchmarking dashboard — slice a portfolio by type/phase/region, compare cost & schedule against industry norms, score project readiness.
-🌐 **Live work:** [your portfolio →]([https://[yoursite].dev](https://israelortizcpsc.github.io/portfolio-selected/))
+🌐 **Live work:** [([https://[yoursite].dev](https://israelortizcpsc.github.io/portfolio-selected/))
 ✍️ **I write about what I build:** ["How I built Gauge with AI tools (and what I refused to let it write for me)"]([https://[yoursite].dev/blog/capbench](https://github.com/israelortizcpsc/Gauge-CAPEX-Benchmarking-Dashboard/wiki/How-This-Was-Built))
 
 ---
@@ -40,7 +40,7 @@
 
 - 💬 Ask me about React data viz, Django REST modeling, or making dashboards fast.
 - 🤝 I mentor [junior devs / a local coding group] — teaching is how I pressure-test what I know.
-- 📫 Reach me: [israeljortizcpsc@email.com] · [[linkedin.com/in/you](https://www.linkedin.com/in/jacob-ortiz-152660335/)]
+- 📫 Reach me: [israeljortizcpsc@email.com] · [[linkedin.com/in/me](https://www.linkedin.com/in/jacob-ortiz-152660335/)]
 
 <!-- Optional: GitHub stats card. Uncomment after you have public repos.
 ![stats](https://github-readme-stats.vercel.app/api?username=[you]&show_icons=true&hide_border=true)
